@@ -1,5 +1,4 @@
-Hi, I’m Nikolai and I study Computer Science & Engineering at UCLA 🐻. I have uploaded different projects that I've done in the past and am currently working on. I am passionate about back-end development and Machine Learning and am always trying to learn new things. 🧑‍🎓
-
+Hi, I'm Nikolai! 🎓 I'm pursuing a degree in Computer Science & Engineering at UCLA. Here, you'll find a variety of projects I've worked on, reflecting my journey through back-end development and Machine Learning. I'm passionate about discovering new technologies and continuously enhancing my skills. Dive into my repositories to see what I'm currently exploring!
 Feel free to contact me at nikolair@g.ucla.edu 
 
 
